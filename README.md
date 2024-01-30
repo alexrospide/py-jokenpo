@@ -8,7 +8,7 @@ Script developed in Python to play rock, paper, scissors
 - `Function 2 automatic`: Generate a random choice for the computer between 0 and 2
 - `Function 3 automatic`: Check choices according to the game rule and return the game result
 
-# :check Technologies and Dependencies
+# :heavy_check_mark: Technologies and Dependencies
 * Python 3.12
 * random
 
